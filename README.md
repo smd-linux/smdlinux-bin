@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smdlinux-bin
+useful scripts and fun stuff used in smdlinux
